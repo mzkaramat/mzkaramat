@@ -15,7 +15,7 @@ factories. One model, every sensor. Industrial-grade accuracy with
 the fewest false positives on the market, so operators finally trust
 the output.
 
-Already running production lines at Siemens, Bosch, LEONI, and Magna.
+Already running production lines at Siemens, Bosch, LEONI, Magna and 25+ customers.
 
 I love the mix: building a high-agency team and going deep into the
 math behind every breakthrough we ship. Outside work, I chase
