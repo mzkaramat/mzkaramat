@@ -17,7 +17,7 @@ the output.
 
 Already running production lines at Siemens, Bosch, LEONI, Magna and 25+ large scale enterprises.
 
-I love the mix: building a high-agency team and going deep into the
+I love the mix: building great products and going deep into the
 math behind every breakthrough we ship. Outside work, I chase
 hackathons. 100+ wins so far at Oxford, Microsoft (×3), Google,
 BMW Group, European GNSS Agency, Tetra Pak (×2), Rolls-Royce,
